@@ -1,6 +1,6 @@
-# Kubernetes configs for canonical websites
+# Kubernetes configs for kubectl deployments
 
-This repository contains the configuration files the Kubernetes deployments for some of [our websites](https://github.com/canonical-websites).
+This tool aims to make k8s configuration and deployments straightforward for any application that can be run as a docker container.
 
 We are using [jinja2](https://jinja.palletsprojects.com/) as a template system for our configurations. All the template values for our projects can be found under the sites folder.
 
