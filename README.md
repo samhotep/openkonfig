@@ -1,3 +1,6 @@
+## 🚨Attention!
+⚠️ This project is currently a WIP and not meant to be used as-is. 
+
 # Kubernetes configs for kubectl deployments
 
 This tool aims to make k8s configuration and deployments straightforward for any application that can be run as a docker container.
